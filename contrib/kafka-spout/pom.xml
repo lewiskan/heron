@@ -135,13 +135,13 @@
         <dependency>
             <groupId>com.twitter.heron</groupId>
             <artifactId>heron-api</artifactId>
-            <version>SNAPSHOT</version>
+            <version>0.14.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.twitter.heron</groupId>
             <artifactId>heron-storm</artifactId>
-            <version>SNAPSHOT</version>
+            <version>0.14.4</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
